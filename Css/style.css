@@ -1,0 +1,24 @@
+body {
+    text-align: center;
+    font-size: 20px;
+}
+
+table, td, tr {
+    border: 1px solid black;
+}
+
+tr {
+    height: 47px;
+}
+
+td {
+    width: 47px;
+}
+
+table {
+    margin-right: auto;
+    margin-left: auto;
+    margin-top: 177px;
+    text-align: center;
+    border-collapse: collapse;
+}
